@@ -1,0 +1,1 @@
+venv/\n*.pem\n.env\n_pycache_/\n.terraform/\n*.tfstate\n*.tfstate.backup
